@@ -4,12 +4,37 @@
   
     
     <entry>
+      <title>一次尝试</title>
+      <link href="/2022/12/12/blog2/"/>
+      <url>/2022/12/12/blog2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="我不爱学习"><a href="#我不爱学习" class="headerlink" title="我不爱学习"></a>我不爱学习</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 内网渗透 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的博客</title>
       <link href="/2022/12/11/blog/"/>
       <url>/2022/12/11/blog/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="我爱学习"><a href="#我爱学习" class="headerlink" title="我爱学习"></a>我爱学习</h2>]]></content>
       
+      
+      <categories>
+          
+          <category> 内网渗透 </category>
+          
+      </categories>
       
       
     </entry>
